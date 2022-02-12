@@ -1,6 +1,6 @@
 👋 Hello dear friend!
 
-I’m @patrycja-dev41171 and I'm a novice web developer. My programming adventure started in June 2021. Since then, I have learned: 
+My name is Patrycja and I'm a novice web developer. My programming adventure started in June 2021. Since then, I have learned: 
 
 - HTML ⭐⭐⭐, 
 - CSS ⭐⭐⭐, 
