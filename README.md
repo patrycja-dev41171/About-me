@@ -12,6 +12,6 @@ I am constantly deepening my knowledge and practicing my skills. In March I will
 
 🌱 I’m currently learning React.js, TypeScript, database ( the basics of: MongoDB, MySQL, HeidiSQL ).
 
-📫 patrycja@inska.contact@gmail.com
+📫 patrycja.inska.contact@gmail.com
 
 
